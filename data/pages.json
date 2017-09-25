@@ -1,0 +1,9 @@
+{
+  "pages": [
+    {
+      "title" : "A little bit <span>About myself</span>",
+      "slug": "about",
+      "body" : "<p>Loggers are cutting down trees in the Amazon rainforest at twice the rate of previous estimates, according to a new analysis of satellite images of the region. Earlier attempts to gauge the scale of deforestation were not sensitive enough to spot the occurrence of selective logging - the cutting down of individual trees without clearing the surrounding forest.</p>"
+    }
+  ]
+}

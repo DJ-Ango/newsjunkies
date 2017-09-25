@@ -1,0 +1,28 @@
+{
+  "blogposts": [
+    {
+      "title" : "Blog post 3",
+      "slug": "2017/05/12/blog-post-three",
+      "date" : "May 12, 2017",
+      "category" : "World",
+      "summary" : "3 Ways Brazil’s Environmental Decisions Affect the World",
+      "body" : "<p>What happens in Brazil doesn’t stay in Brazil. Whether you live in South America’s largest country or half a world away, what happens there impacts your life, from the coffee you drink to the hardwood floors in your home to the air you breathe.In some ways, the world’s seventh-richest country has made remarkable environmental progress in recent years. In the past decade, Brazil reduced its carbon dioxide (CO2) emissions by more than any other country, largely by curtailing deforestation in the Amazon basin. In June, Brazilian President Dilma Rousseff and U.S. President Barack Obama announced a joint effort to address climate change, in which both countries pledged to increase their power generation from renewable energy to 20 percent by 2030 — a powerful statement ahead of the U.N. climate change summit in Paris later this year.</p>"
+    },
+    {
+      "title" : "Blog post 2",
+    "slug": "2017/05/11/blog-post-two",
+    "date" : "May 11, 2017",
+    "category" : "development",
+    "summary" : "Brazilian Amazon being cut down twice as fast.",
+    "body" : "<p>Loggers are cutting down trees in the Amazon rainforest at twice the rate of previous estimates, according to a new analysis of satellite images of the region. Earlier attempts to gauge the scale of deforestation were not sensitive enough to spot the occurrence of selective logging - the cutting down of individual trees without clearing the surrounding forest.</p>"
+    },
+    {
+      "title" : "Blog post 1",
+      "slug": "2017/05/10/blog-post-one",
+      "date" : "May 10, 2017",
+      "category" : "Animal",
+      "summary" : "CUTTING DOWN WILDLIFE HABITATS",
+      "body" : "<p>Forests are vital for the health and well-being of humans, wildlife, and the Earth. They provide habitat for about two-thirds of all land-dwelling animals and plants. Around the world, these critical ecosystems are being ripped apart as a result of a booming demand for furniture, flooring, lumber, and other building materials. Trees are used to make paper, packaging materials, pencils, fuel for cooking and heat, and other wood-based products. In addition to wood products, logging is also occurring at an alarming rate to make room for animal agriculture and subsistence farming, oil and gas extraction, mining operations, and ever-increasing development. The world's natural forests cannot sustain the increasing global demands of current forest management practices.</p><p>Years of irresponsible exploitation have destroyed and degraded much of the planet's forests. Half of the Earth's global forest land has already been lost. In the United States, 90 percent of continental indigenous forests have been removed. Around the world, 15 billion trees are being cut down each year. The destruction of important wildlands is displacing communities, endangering habitats of rare and endangered plants and animals, and negatively affecting the environment. Most of the world’s remaining indigenous forests are located in Canada, Alaska, Russia and the Northwestern Amazon basin. We must protect what is left before it is too late.</p><p>Logging generally falls into two categories: selective logging and clear-cutting logging. Selective logging involves taking only trees of high value. Clear-cutting involves the taking of all trees in an area, thus clearing the entire forest. While selective logging is promoted as being more environmentally responsible than clear-cutting, it can be very damaging to the surrounding trees which are left standing. The heavy equipment used in logging often damages the surrounding trees. Around 40 out of 100 trees die from just one tree being selectively logged.</p>"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<% include header %>
+
+<h1>Nature Needs</h1>
+
+
+<% include navigatie %>
+
+<h3>posted <%- post.date %> in <a href="#"><%- post.category %></a></h3>
+<h2><span><%- post.title %></span> :</h2>
+<article>
+  <%- post.body %>
+</article>
+
+<% include footer %>

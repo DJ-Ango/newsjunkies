@@ -1,0 +1,21 @@
+<% include header %>
+<% include navigatie %>
+
+<div class="blo">
+
+<section >
+  <% var teller = 1; %>
+  <% posts.forEach(function(post){ %>
+    <p>
+      <%- post.date %> :
+      <a class="post-link" href="<%- post.slug %>"><%- post.title %></a>
+      &mdash; <%- post.summary %>
+    </p>
+    <% if (teller !== posts.length) { %>
+    <span class="divider">* * * * *</span>
+    <% } %>
+  <% teller++;}); %>
+</section>
+
+<% include footer %>
+</div>
